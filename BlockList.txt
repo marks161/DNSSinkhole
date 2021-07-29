@@ -42,3 +42,4 @@ supportmetrics.apple.com
 metrics.icloud.com
 metrics.mzstatic.com
 hicloud.com
+activate.adobe.com
