@@ -189,3 +189,5 @@ www.wip1.adobe.com
 www.wip2.adobe.com
 www.wip3.adobe.com
 www.wip4.adobe.com
+.zip
+.mov
